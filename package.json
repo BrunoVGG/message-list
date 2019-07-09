@@ -1,10 +1,15 @@
 {
-  "name": "messages-list",
+  "name": "vue-message",
   "version": "1.0.0",
   "description": "MessagesList",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/BrunoVGG/message-list.git",
+    "directory": "packages/react-dom"
   },
   "keywords": [
     "vue",
