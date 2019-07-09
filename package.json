@@ -1,6 +1,6 @@
 {
-  "name": "vue2-messages",
-  "version": "1.0.0",
+  "name": "vue2-message",
+  "version": "1.0.2",
   "description": "MessagesList",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "author": "Bruno Gomes\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Gomes",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "vue": "^2.6.10"
   }
 }
