@@ -1,0 +1,19 @@
+{
+  "name": "messages-list",
+  "version": "1.0.0",
+  "description": "MessagesList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "task",
+    "component"
+  ],
+  "author": "Bruno Gomes\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Gomes",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
